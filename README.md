@@ -1,5 +1,6 @@
 # Awesome Mapbox GL Styles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is an Awesome List of open and published Mapbox GL styles.  Currently, the list comprises of only Mapbox and OpenMapTiles styles, but personal styles are very welcome.  
 
 
 ### Styles

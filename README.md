@@ -14,6 +14,7 @@ This is an Awesome List of open and published Mapbox GL styles.  Currently, the 
 - [Klokantech Terrain](https://github.com/openmaptiles/klokantech-terrain-gl-style/blob/master/style.json) - A beautiful outdoor/terrain map that uses elevation data
 - [OSM Bright](https://github.com/openmaptiles/osm-bright-gl-style/blob/master/style.json) - OpenMapTiles version of the Mapbox Bright style
 - [Positron](https://github.com/openmaptiles/positron-gl-style/blob/master/style.json) - A beautiful light basemap style from OpenMapTiles
+- [Satellite (mapbox-v9)](https://github.com/mapbox/mapbox-gl-styles/blob/master/styles/satellite-v9.json) - Mapbox Satellite
 - [Swiss Ski](https://github.com/mapbox/mapbox-gl-swiss-ski-style/blob/master/cij1zoclj002y8rkkdjl69psd.json) - A skiing and mountain themed style from Mapbox
 - [Toner](https://github.com/openmaptiles/toner-gl-style/blob/master/style.json) - Black and white style based off stamen design of the same name 
 - [Vintage](https://github.com/mapbox/mapbox-gl-vintage-style/blob/master/cif5p01n202nisaktvljx9mv3.json) - Beautiful vintage style from Mapbox 

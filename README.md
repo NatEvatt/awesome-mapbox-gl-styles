@@ -13,6 +13,7 @@ This is an Awesome List of open and published Mapbox GL styles.  Currently, the 
 - [Fiord Color](https://github.com/openmaptiles/fiord-color-gl-style) - A dark blue basemap optimal for data visualizations
 - [Klokantech 3D](https://github.com/openmaptiles/klokantech-3d-gl-style) - 3D Map style
 - [Klokantech Terrain](https://github.com/openmaptiles/klokantech-terrain-gl-style) - A beautiful outdoor/terrain map that uses elevation data
+- [Neon](https://github.com/NatEvatt/awesome-mapbox-gl-styles/tree/master/styles/Neon) - Map style inspired by neon signs
 - [OSM Bright](https://github.com/openmaptiles/osm-bright-gl-style) - OpenMapTiles version of the Mapbox Bright style
 - [OSM Liberty](https://github.com/lukasmartinelli/osm-liberty) - A fork of the OSM Bright style, based on free data sources
 - [Positron](https://github.com/openmaptiles/positron-gl-style) - A beautiful light basemap style from OpenMapTiles
